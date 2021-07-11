@@ -1,4 +1,27 @@
-SSL has been updated for anyone still running the network
+Due to my newbie github knowledge not knowing how to revert to previous commit...
+
+I forked sector and just edited the SSL certs back
+
+Please run the anti8444 script or similar scripts to block or remove the 8444 nodes
+https://github.com/bithadder/sector-anti8444
+
+Nodes list that are working with the Old SSL certs (this version)
+
+sector show -a 58.234.32.51:5765
+
+sector show -a 91.158.116.33:5765
+
+sector show -a 147.135.7.137:5765
+
+sector show -a 24.6.214.16:5765
+
+sector show -a 81.224.235.46:5765
+
+sector show -a 83.57.127.27:5765
+
+sector show -a 23.159.160.33:5765
+
+
 
 # sector-blockchain
 
